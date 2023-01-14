@@ -1,0 +1,15 @@
+C:\Users\Leon\C#\Homework\итоговая С#\obj\Debug\net6.0\итоговая С#.csproj.AssemblyReference.cache
+C:\Users\Leon\C#\Homework\итоговая С#\obj\Debug\net6.0\итоговая С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\C#\Homework\итоговая С#\obj\Debug\net6.0\итоговая С#.AssemblyInfoInputs.cache
+C:\Users\Leon\C#\Homework\итоговая С#\obj\Debug\net6.0\итоговая С#.AssemblyInfo.cs
+C:\Users\Leon\C#\Homework\итоговая С#\obj\Debug\net6.0\итоговая С#.csproj.CoreCompileInputs.cache
+C:\Users\Leon\C#\Homework\итоговая С#\bin\Debug\net6.0\итоговая С#.exe
+C:\Users\Leon\C#\Homework\итоговая С#\bin\Debug\net6.0\итоговая С#.deps.json
+C:\Users\Leon\C#\Homework\итоговая С#\bin\Debug\net6.0\итоговая С#.runtimeconfig.json
+C:\Users\Leon\C#\Homework\итоговая С#\bin\Debug\net6.0\итоговая С#.dll
+C:\Users\Leon\C#\Homework\итоговая С#\bin\Debug\net6.0\итоговая С#.pdb
+C:\Users\Leon\C#\Homework\итоговая С#\obj\Debug\net6.0\итоговая С#.dll
+C:\Users\Leon\C#\Homework\итоговая С#\obj\Debug\net6.0\refint\итоговая С#.dll
+C:\Users\Leon\C#\Homework\итоговая С#\obj\Debug\net6.0\итоговая С#.pdb
+C:\Users\Leon\C#\Homework\итоговая С#\obj\Debug\net6.0\итоговая С#.genruntimeconfig.cache
+C:\Users\Leon\C#\Homework\итоговая С#\obj\Debug\net6.0\ref\итоговая С#.dll
